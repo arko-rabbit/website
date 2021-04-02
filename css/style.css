@@ -1,0 +1,207 @@
+body{
+
+    background-color: #383e56;
+    
+
+    margin: 0;
+    /*padding-bottom: 25px ;*/
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+    
+}
+
+.top-container {
+
+    background-image: url(../CSS\ -\ My\ Site\ Images/dhakarooftop.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    position:absolute;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right:0;
+    
+}
+
+.navbar{
+    margin-bottom: 100px;
+    font-family: 'Major Mono Display', monospace;
+    text-align: center;
+    
+}
+
+.navbar-nav{
+
+    text-align: center;
+}
+
+.profile-pic{
+
+    margin-top: 100px;
+
+    object-fit: cover;
+
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+
+}
+
+.intro{
+
+    width: 30%;
+    margin: auto;
+}
+
+
+
+
+
+h1{
+    color: black;
+    margin: 50px auto 0px auto;
+    font-size: 200px;
+    font-family: 'Major Mono Display', monospace;
+    font-weight: bold;
+    line-height: 2;
+}
+
+h2{
+    color: black;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    
+}
+
+h3{
+    color: black;
+}
+p{
+    color: black;
+    font-size: large;
+    line-height: 2;
+}
+
+
+
+
+
+.bio-container{
+
+   position:relative;
+   margin-top: 550px;
+
+    background-color: #e5edb7;
+
+    
+    
+}
+
+.skill-container{
+
+    padding: 50px 70px;
+
+    background-color: #faf0af;
+}
+
+.computer-pic{
+    
+    border-radius: 100%;
+    width: 10%;
+    float:top;
+    margin: 20px;
+    
+}
+.code-image{
+
+    width: 10%;
+    float: top;
+    margin-left: 30px;
+}
+
+.java-image{
+
+    width: 10%;
+    float: top;
+    margin-right: 30px;
+}
+
+
+
+.workout-pic{
+
+    width: 10%;
+    float: top;
+    margin-left: 30px;
+}
+
+.bottom-container{
+
+    background-color: #faf0af;
+    padding: 50px 0 20px;
+    padding-top: 50px;
+
+    
+    
+
+}
+
+
+
+
+
+
+
+.skill-row{
+
+    margin: 100px  auto 100px auto;
+
+    text-align: left;
+
+    width: 50%;
+}
+
+.fas{
+
+    margin-bottom: 20px;
+}
+
+.contact-message{
+
+    width: 40%;
+    margin: 40px auto 60px;
+
+}
+
+.btn{
+
+    margin-bottom:30px;
+}
+
+.footer-icon{
+    width: 10 px;
+}
+
+a{
+    font-family: 'Share Tech Mono', monospace; ;
+    margin: 10px 20px;
+    text-decoration: none;
+    color: #046582;
+}
+
+a:hover {
+    color: #810000;
+}
+
+.copyright{
+
+    color:black;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+        
