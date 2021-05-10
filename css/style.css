@@ -140,9 +140,14 @@ p{
     margin-left: 30px;
 }
 
+.contact-me{
+    background-color: #faf0af;
+    padding: 50px 70px;
+}
+
 .bottom-container{
 
-    background-color: #faf0af;
+    background-color: #e5edb7;
     padding: 50px 0 20px;
     padding-top: 50px;
 
@@ -165,6 +170,32 @@ p{
 
     width: 50%;
 }
+
+
+/*Project section*/
+
+#project_container{
+    background-color: #e5edb7;
+    padding: 100px;
+}
+
+
+
+.pricing-col{
+
+    padding: 3% 2%;
+
+}
+
+.card{
+    border-radius: 20%;
+}
+
+.card-body{
+    background-color: #faf0af;
+}
+
+
 
 .fas{
 
